@@ -1,5 +1,9 @@
 # Requirements
 
+## The Challenge
+
+The challenge is to develop an MVP (Minimum Viable Product) product that leverages the power of the Google Cloud Vertex AI model to solve real-world problems.
+
 ## Project Architecture Diagram
 To create a project architecture diagram, follow the steps below:
 
